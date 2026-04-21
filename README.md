@@ -8,9 +8,8 @@
 
 <h2>What this contains</h2>
 
-<p>
-  1. Business Analystics - Nano degree
-  2. LSE - DATA Analytics with python
-  3. LSE - ADVANCED DATA ANALYTICS FOR ORGANISATIONAL IMPACT
-</p>
+
+*  1. Business Analystics - Nano degree
+*  2. LSE - DATA Analytics with python
+*  3. LSE - ADVANCED DATA ANALYTICS FOR ORGANISATIONAL IMPACT
 
